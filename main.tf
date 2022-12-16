@@ -1,4 +1,4 @@
-
+## trouver comment variabiliser
 
 resource "aws_key_pair" "demo_ssh" {
 
