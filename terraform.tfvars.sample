@@ -1,0 +1,8 @@
+aws_secret_key = 
+aws_access_key = 
+aws_token =
+public_ssh_key_name =
+aws_sg_name = 
+aws_ec2_ami = 
+aws_instance_type = 
+aws_instance_name =

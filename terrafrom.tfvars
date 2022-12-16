@@ -1,0 +1,8 @@
+aws_secret_key = "NzVDcVfkEWdXaKbkPDyns8nR7/PwTNRZsy8yIaWS"
+aws_access_key = "ASIAVLAXB7XNGBXTYYWW"
+aws_token = "FwoGZXIvYXdzEO3//////////wEaDDHEdvZquMy8plFWPSK+AZBNZTo0wdVU9LwIub/2Z3Ec/+cFEiMuzjkCFkLlLdU6gTh399rvSOw7JS7VazzUbxSq0lh9h+d5y5XjBpeJSmWbHBGJNTFg9G6/cx9SIsuHanPBB40/Sc+CUYlaXE6tqAZ6YM+sOj+motdmhTZOe7rsfOOpxaWp8yxjSb3oe/L+PDemB1Dn0E0ZnyMW7Dzt6VOjyIkw4/8zKEb3+pXdFETXHuUDW0l8CnE7g2VzpSBJY89X7796bY8MaI+rOrwosajxnAYyLW3DsUnddEr87iwBo2Ul1aqKJHwB54Nhc5dWUuQWiwcEnoL9FYFSMSmh+WnfjA=="
+public_ssh_key_name = "myssh_demo"
+aws_sg_name = "sg_demo"
+aws_ec2_ami = "ami-0574da719dca65348"
+aws_instance_type = "t2.nano"
+aws_instance_name = "demo-ec2"
